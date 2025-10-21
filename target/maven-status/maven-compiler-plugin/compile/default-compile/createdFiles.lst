@@ -1,0 +1,4 @@
+com\mfsys\cargo\model\Equipment.class
+com\mfsys\cargo\model\Load.class
+com\mfsys\cargo\CargoApplication.class
+com\mfsys\cargo\ServletInitializer.class
