@@ -1,8 +1,11 @@
 D:\CiiHive\cargo\src\main\java\com\mfsys\cargo\CargoApplication.java
+D:\CiiHive\cargo\src\main\java\com\mfsys\cargo\controller\EquipmentController.java
 D:\CiiHive\cargo\src\main\java\com\mfsys\cargo\controller\LoadController.java
 D:\CiiHive\cargo\src\main\java\com\mfsys\cargo\model\Equipment.java
 D:\CiiHive\cargo\src\main\java\com\mfsys\cargo\model\Load.java
+D:\CiiHive\cargo\src\main\java\com\mfsys\cargo\repository\EquipmentRepository.java
 D:\CiiHive\cargo\src\main\java\com\mfsys\cargo\repository\LoadRepository.java
+D:\CiiHive\cargo\src\main\java\com\mfsys\cargo\service\EquipmentService.java
 D:\CiiHive\cargo\src\main\java\com\mfsys\cargo\service\LoadService.java
 D:\CiiHive\cargo\src\main\java\com\mfsys\cargo\service\LoadServiceImpl.java
 D:\CiiHive\cargo\src\main\java\com\mfsys\cargo\ServletInitializer.java

@@ -2,7 +2,10 @@ com\mfsys\cargo\model\Equipment.class
 com\mfsys\cargo\model\Load.class
 com\mfsys\cargo\repository\LoadRepository.class
 com\mfsys\cargo\controller\LoadController.class
+com\mfsys\cargo\controller\EquipmentController.class
+com\mfsys\cargo\service\EquipmentService.class
 com\mfsys\cargo\service\LoadServiceImpl.class
+com\mfsys\cargo\repository\EquipmentRepository.class
 com\mfsys\cargo\service\LoadService.class
 com\mfsys\cargo\CargoApplication.class
 com\mfsys\cargo\ServletInitializer.class
